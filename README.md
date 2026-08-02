@@ -50,27 +50,26 @@
 </p>
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=sumaya-jahan&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Sumaya Jahan's GitHub statistics"
+    src="https://github-readme-stats.vercel.app/api?username=sumaya-jahan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Sumaya Jahan GitHub Stats"
   />
-  
+
   <img
     width="48%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaya-jahan&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used languages"
+    alt="Sumaya Jahan Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sumaya-jahan&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=sumaya-jahan&theme=tokyonight"
+    alt="Sumaya Jahan GitHub Streak"
   />
 </p>
 
