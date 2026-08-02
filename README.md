@@ -1,17 +1,93 @@
-<img width="1672" height="941" alt="121d9827-23ea-44a0-b396-ad57f7bff8e7" src="https://github.com/user-attachments/assets/99b9a04d-c07d-47b9-b49e-e18fcb25937e" />
-## Hi there 👋
+<img width="100%" alt="Sumaya Jahan Banner" src="https://github.com/user-attachments/assets/99b9a04d-c07d-47b9-b49e-e18fcb25937e" />
 
-<!--
-**sumaya-jahan/sumaya-jahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sumaya Jahan</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Mathematics Student | Web Developer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I enjoy building clean, responsive, and user-friendly web applications.
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 I am a **Mathematics Student**
+- 💻 Interested in **Web Development**
+- 🌱 Currently improving my **React, Node.js and MongoDB** skills
+- 🧠 I enjoy problem-solving and learning new technologies
+- 🚀 Building projects to improve my development skills
+- 🤝 Open to learning and collaboration
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS and JavaScript" />
+</p>
+
+### Frameworks and Runtime
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React and Node.js" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+</p>
+
+### Tools and Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=sumaya-jahan&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Sumaya Jahan's GitHub statistics"
+  />
+  
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaya-jahan&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sumaya-jahan&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/sumaya-jahan">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">Code • Learn • Build • Grow</h3>
+
+<p align="center">
+  Thanks for visiting my profile! 💙
+</p>
